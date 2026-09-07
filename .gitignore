@@ -1,0 +1,63 @@
+## Visual Studio / .NET GitIgnore
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (MonoDevelop/Xamarin Studio)
+*.userprefs
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio 2015/2017/2019/2022 cache/options directory
+.vs/
+.vscode/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUnit
+*.VisualState.xml
+TestResult.xml
+nunit-*.xml
+
+# Roslyn cache directories
+*.GeneratedMSUnitTest.cs
+
+# DotCover
+*.dotCover
+
+# Rider
+.idea/
+
+# Windows desktop ini
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+
+# Recycle Bin used on shared network drives
+$RECYCLE.BIN/
+
+# Package files
+*.nupkg
+*.snupkg
+**/packages/*
+!**/packages/build/
+
